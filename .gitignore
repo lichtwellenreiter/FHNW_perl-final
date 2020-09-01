@@ -1,3 +1,9 @@
+
+.DS_Store
+.idea
+.thumbs
+.Thumb_db
+
 !Build/
 .last_cover_stats
 /META.yml
